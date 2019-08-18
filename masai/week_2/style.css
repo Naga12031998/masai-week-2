@@ -149,7 +149,7 @@
 {
     color: white;
     text-align: center;
-    clear: both;
+    clear: both;id = "id45" 
 }
 .class3
 {
@@ -187,7 +187,7 @@
     font-family: 'Fjalla One', sans-serif;
   }
 .class5
-{
+{id = "id45" 
     color: #616161;
     margin-left: 50px;
 }  
@@ -266,3 +266,45 @@ div>nav
 .class13~div{
     display: grid;
 }
+@media (max-width: 800px) {
+    #id3 {
+        width: 300px;
+    }
+  }
+  @media (max-width: 800px) {
+    #id8 {
+        width: 250px;
+    }
+    #id10 {
+        width: 250px;
+    }
+  }
+  @media (max-width: 800px) {
+    #id12 {
+        width: 550px;
+    }
+  }
+  @media (max-width: 800px) {
+    #id45 {
+        width: 550px;
+    }
+  }
+  @media (max-width: 800px) {
+    #id46 {
+        width: 550px;
+    }
+  }
+  @media (max-width: 800px) {
+    #id47 {
+        width: 550px;
+    }
+  }
+
+
+
+
+
+
+
+
+

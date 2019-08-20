@@ -1,58 +1,53 @@
-.class1
-{
+.word-connect {
     border-bottom: 1px solid black;
 }
-#cam
-{
-    clear:left;
-}
-.class55
-{
 
+.canon-heading {
     font-family: 'Lexend Tera', sans-serif;
     font-size: 40px;
     color:#D32F2F;
     float: left;
 }
-.class55::first-letter {
+
+.canon-heading::first-letter {
     font-size: 60px;
-  }
+}
     
-#id2
-{
+#top-right-words {
     margin-right: 20PX; 
     font-size: 20px;
     font-family: 'Open Sans Condensed', sans-serif;
     float: right;
 }
-#id3
-{
+
+#image-1 {
     margin-top: 10px;
     margin-left: 10px;
     float: left;
     clear : left;
 }
-#id4
-{
+
+#word-new {
     font-family: 'Open Sans Condensed', sans-serif;
     margin-left: 10px;
     margin-top: 150px;
     float: left;
-}    
-#id5
-{
+}
+
+#word-canon {
     color: #D32F2F;
     font-family: 'Anton', sans-serif;
     margin-left: 10px;
     margin-top: 150px;
     float: left;
 }
-#id6
-{
+
+#word-one-lens {
     color:#616161;
     margin-left: 10px;
     float: left;
 }
+
 .styled {
     border: 0;
     line-height: 2.5;
@@ -72,57 +67,58 @@
                 inset -2px -2px 3px rgba(0, 0, 0, .6);
     float: left;         
 }
-#id7
-{
+
+#word-latest {
     clear:left;
     font-family: 'Lexend Tera', sans-serif;
     text-align: center;
     font-size: 30px;
 }
-.flex-box 
-{
+
+.flex-box {
     clear:left;
     display: flex;
     margin: 10px;
 }
-.flex-box div 
-{
+
+.flex-box div {
     margin: 10px;
     padding: 10px;
     border: 1px solid black;
 }
-#box1 div
-{
+
+#box1 div {
     flex-direction: row;
     flex-basis: 50%;
 }
-#id8 
-{
+
+#image-2 {
     width: 625px;
     height: 400px;
 }
-#id10 
-{
+
+#image-3 {
     width: 625px;
     height: 400px;
 }
-#id8:hover
-{
+
+#image-2:hover {
     display: block;
     object-fit : inherit;
     overflow: hidden;
     margin: 0 auto;
     width: 100%;
 }
-#id10:hover
-{
+
+#image-3:hover {
     display: block;
     object-fit : inherit;
     overflow: hidden;
     margin: 0 auto;
     width: 100%;
 }
-.class1{
+
+.word-connect {
     clear: left;
     margin-left: 10px;
     margin-right: 10px;
@@ -133,26 +129,24 @@
     font-size: 20px;
     font-family: 'Lexend Tera', sans-serif;
 }
-#id11
-{
+
+#word-create {
     font-family: 'Lexend Tera', sans-serif;
     font-size: 20px;
     text-align: center;
 } 
-.class2
-{
+
+.background-black {
     background: black;
     width : auto;
     height: 400px;
 } 
-#id12
-{
-    color: white;
+
+#image-4 {
     text-align: center;
-    clear: both;id = "id45" 
 }
-.class3
-{
+
+.sign-up-box {
     background: #EEEEEE;
     width : auto;
     height: 400px;
@@ -160,14 +154,13 @@
     font-size: 20px;
     text-align: center;
 }
-#reference:hover
-{
+
+#sign-up-box:hover {
     font-size: 50px;
     color: #D32F2F;
-
 }
-.class4
-{
+
+.word-canon1 {
     color: #D32F2F;
     text-align: left;
     margin-left: 40px;
@@ -175,130 +168,130 @@
     border-bottom: 1px solid grey;
     font-family: 'Lexend Tera', sans-serif;
 }
+
 .flex-box1 {
     display: flex;
     margin: 50px;
     border-bottom: 1px solid grey;
-  }
+}
   
-  .flex-box1 div {
+.flex-box1 div {
     margin-left: 10px;
     flex-basis: 25%;
     font-family: 'Fjalla One', sans-serif;
-  }
-.class5
-{id = "id45" 
+}
+
+.reference-line1{
     color: #616161;
     margin-left: 50px;
-}  
-.class6
-{
+}
+
+.reference-line2 {
     color: #616161;
     margin-left: 100px;
     margin-top: 10px;
-}  
-.class5:hover 
-{
+}
+
+.reference-line1:hover {
     color: #D32F2F;
     font-size: 30px;
 }
-.class6:hover 
-{
+
+.reference-line2:hover {
     color: #D32F2F;
     font-size: 30px;
 }
-.class7
-{
+
+.border-bottom {
     border-bottom: 1px solid grey;
     margin-left: 40px;
     margin-right: 40px;
 }
-.class8
-{
+
+.copyright {
     text-align: right;
     color: #616161;
     margin-right: 40px;
-
 }
-.class99:hover 
-{
+
+.reference-cameras:hover {
     color: red;
     font-size: 30px;
 }
-.class99
-{
+
+.reference-cameras {
     margin-left: 150px;
     margin-top: 10px;
-
 }
-.class100
-{
+
+.reference-videocameras {
     margin-left: 150px;
     margin-top: 10px;
-
 }
-.class100:hover 
-{
+
+.reference-videocameras:hover {
     color: red;
     font-size: 30px;
 }
-.class101
-{
+
+.reference-lenses {
     margin-left: 150px;
     margin-top: 10px;
-
 }
-.class101:hover 
-{
+
+.reference-lenses:hover {
     color: red;
     font-size: 30px;
 }
+
 @media (max-width: 800px) {
-   
-    .class55 {
+    .canon-heading {
         text-align: center;
     }
-  }
-div>nav
-{
+}
+
+div>nav {
     font-family: 'Josefin Sans', sans-serif;
 }
-.class13~div{
-    display: grid;
-}
+
 @media (max-width: 800px) {
-    #id3 {
+    #image-1 {
         width: 300px;
     }
-  }
-  @media (max-width: 800px) {
-    #id8 {
+}
+
+@media (max-width: 800px) {
+    #image-2 {
         width: 250px;
     }
-    #id10 {
+    #image-3 {
         width: 250px;
     }
-  }
-  @media (max-width: 800px) {
-    #id12 {
+}
+
+@media (max-width: 800px) {
+    #image-4 {
         width: 550px;
     }
-  }
-  @media (max-width: 800px) {
-    #id45 {
+}
+
+@media (max-width: 800px) {
+    #ref-image1 {
         width: 550px;
     }
-  }
-  @media (max-width: 800px) {
-    #id46 {
+}
+
+@media (max-width: 800px) {
+    #ref-image2 {
         width: 550px;
     }
-  }
-  @media (max-width: 800px) {
-    #id47 {
+}
+
+@media (max-width: 800px) {
+    #ref-image3 {
         width: 550px;
     }
-  }
+}
 
 
 
